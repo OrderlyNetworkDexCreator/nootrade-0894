@@ -10,14 +10,14 @@
   --oui-color-link: 0 230 115;
   --oui-color-link-light: 77 242 159;
 
-  --oui-color-secondary: 255 255 255;
-  --oui-color-tertiary: 240 240 240;
-  --oui-color-quaternary: 220 220 220;
+  --oui-color-secondary: 177 170 170;
+  --oui-color-tertiary: 183 179 179;
+  --oui-color-quaternary: 186 186 186;
 
   --oui-color-danger: 255 70 70;
   --oui-color-danger-light: 255 150 150;
   --oui-color-danger-darken: 230 50 50;
-  --oui-color-danger-contrast: 255 255 255;
+  --oui-color-danger-contrast: 195 193 193;
 
   --oui-color-success: 0 255 128;
   --oui-color-success-light: 102 255 170;
@@ -32,7 +32,7 @@
   --oui-color-fill: 0 0 0;
   --oui-color-fill-active: 20 20 20;
 
-  --oui-color-base-1: 255 255 255;
+  --oui-color-base-1: 222 222 222;
   --oui-color-base-2: 240 240 240;
   --oui-color-base-3: 200 200 200;
   --oui-color-base-4: 160 160 160;
@@ -43,11 +43,11 @@
   --oui-color-base-9: 15 15 15;
   --oui-color-base-10: 0 0 0;
 
-  --oui-color-base-foreground: 255 255 255;
+  --oui-color-base-foreground: 184 183 183;
   --oui-color-line: 255 255 255;
 
   --oui-color-trading-loss: 255 70 70;
-  --oui-color-trading-loss-contrast: 255 255 255;
+  --oui-color-trading-loss-contrast: 240 240 240;
   --oui-color-trading-profit: 0 255 128;
   --oui-color-trading-profit-contrast: 0 0 0;
 
